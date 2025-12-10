@@ -58,6 +58,13 @@ This project highlights and scrolls to the matching sentence/word in the Input B
 
 ---
 
+## 🎥 Sample Video
+
+
+https://github.com/user-attachments/assets/218e20a6-f2c4-4e76-8534-8da3b65a4f10
+
+
+
 ## 📌 Summary
 
 This assignment demonstrates how to map text units between panels and synchronize scrolling using unique identifiers and DOM APIs in React.
